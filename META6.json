@@ -12,7 +12,7 @@
   "name": "Sparky-Plugin-Docker",
   "perl": "6.*",
   "provides": {
-    "Sparky::Plugin::Docker": "lib/Sparky/Plugin/Docker.rakumod",
+    "Sparky::Plugin::Docker": "lib/Sparky/Plugin/Docker.rakumod"
   },
   "resources": [
   ],
